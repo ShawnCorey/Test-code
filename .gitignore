@@ -23,6 +23,11 @@
 *.out
 *.app
 
+#Code::Blocks Files
+*.cbp
+*.depend
+*.layout
+
 # =========================
 # Operating System Files
 # =========================
@@ -35,7 +40,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

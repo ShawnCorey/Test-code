@@ -1,0 +1,24 @@
+Word Search Puzzle
+
+Given a collection of letters which contain hidden words (in the file WORDSEARCH.TXT), find all of the words
+in the word list (in the file WORDLIST.TXT) within the puzzle.  Remember, the words may be hidden left to right,
+right to left, and vertically up and down.
+
+Create a console application which will search the puzzle for the words contained in the list.  Your output should
+note which word you found, where you found it and one of the following designations for the direction the word takes:
+
+LR – Left to right
+RL – Right to left
+U – Up
+D – Down
+
+
+Your deliverable for this exercise will be the console application and all supporting modules necessary to compile, test
+and run your solution.  
+
+There is no “right” solution to this problem.  We are simply trying to determine how you approach the problem, how
+comfortable you are with C# and the quality of the output you deliver.  As an candidate for the SDET role, we will be most interested in the testability of code so please focus on the different aspects for testing the solution. Solid, well performing and tested code always wins out over clever code.  
+
+If you have any questions about this exercise, please contact me at daniel.cerda@nordstrom.com.
+
+Good luck and happy coding!
